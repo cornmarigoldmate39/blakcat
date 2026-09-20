@@ -64,6 +64,9 @@ jobs:
       - name: Publish
         env:
           GH_TOKEN: ${{ github.token }}
+          # Without this gh infers the repo from a git remote, and this job has
+          # no checkout — it does not need the source, only the API.
+          GH_REPO: ${{ github.repository }}
           VERSION: ${{ steps.fetch.outputs.version }}
         run: |
           set -euo pipefail
